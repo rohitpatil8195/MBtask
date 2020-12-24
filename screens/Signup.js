@@ -61,7 +61,7 @@ class Signup extends React.Component {
               email: email,
               password: password,
               myFavL:'',
-              UID:'',
+              UID:[],
               profile_pic: "",
               watchlist: [],
             });
@@ -73,7 +73,7 @@ class Signup extends React.Component {
           alert("Account Created Successfully");
         })
         
-        .then(() => this.props.navigation.replace("Home"))
+        .then(() => this.props.navigation.replace("Login"))
         .catch((error) => {
           console.log(error);
           this.setState({

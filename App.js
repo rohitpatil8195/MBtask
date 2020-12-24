@@ -38,7 +38,7 @@ function App({ navigation }) {
           name="List"
           component={List}
           options={{
-            title: "List",
+            title: "List Screen",
             headerLeft: null,
             headerTintColor: "#ffffff",
             headerStyle: {
@@ -55,7 +55,7 @@ function App({ navigation }) {
           name="Details"
           component={Details}
           options={{
-            title: "Details",
+            title: "Detail Screen",
             headerLeft: null,
             headerTintColor: "#ffffff",
             headerStyle: {
@@ -66,31 +66,7 @@ function App({ navigation }) {
             },
           }}
         />
-     
-          {/* <Stack.Screen
-          name="ForgotPassword"
-          component={ForgotPassword}
-          options={{
-            headerShown: false,
-          }}
-        /> */}
 
-        
-     {/* <Stack.Screen
-          name="Stock"
-          component={Stocks}
-          options={{
-            headerTintColor: "#ffffff",
-            headerTitle: "Search Scrip",
-            headerStyle: {
-              backgroundColor: "#3598DB",
-            },
-            headerTitleStyle: {
-              color: "white",
-            },
-          }}
-        />
-        <Stack.Screen name="StocksList" component={StocksList} /> */}
       </Stack.Navigator>
     </NavigationContainer>
   );
