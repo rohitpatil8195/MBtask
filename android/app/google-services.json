@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "958420409934",
+    "firebase_url": "https://stockrndb.firebaseio.com",
+    "project_id": "stockrndb",
+    "storage_bucket": "stockrndb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958420409934:android:39dca3773579179f01ad1f",
+        "android_client_info": {
+          "package_name": "com.mbtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958420409934-ocleq1cr7ps3nq7qggrn7jtfk59lkklq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mbtask",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "958420409934-h1ueiag5q9ca7d3q4u830g9kjn3c62to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6hByNC0r73SRLsp1I0msqo_AiZ2hCtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958420409934-h1ueiag5q9ca7d3q4u830g9kjn3c62to.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958420409934-n4kl3b1s5t801uri6qbnu60krnctu50p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958420409934:android:78b491b6f730e3d201ad1f",
+        "android_client_info": {
+          "package_name": "com.stock.stockwatch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958420409934-ea8rn8bti3lfocr50btg9d11arma30cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stock.stockwatch",
+            "certificate_hash": "e9ef7cd2027812d2d02f6fd9e073eafc7ee64d10"
+          }
+        },
+        {
+          "client_id": "958420409934-h1ueiag5q9ca7d3q4u830g9kjn3c62to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt6hByNC0r73SRLsp1I0msqo_AiZ2hCtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958420409934-h1ueiag5q9ca7d3q4u830g9kjn3c62to.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "958420409934-n4kl3b1s5t801uri6qbnu60krnctu50p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
